@@ -18,3 +18,7 @@ Discord : GetOutHash#0264
 Contact with me via Discord.
 
 Or via Issues.
+
+
+# License
+I dissalow to edit it and send it anywhere!!!!
