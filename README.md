@@ -1,0 +1,2 @@
+# RichSpammer
+SpammerBot Source Code
