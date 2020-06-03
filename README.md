@@ -1,3 +1,4 @@
+![alt text](https://i.imgur.com/TMUSyHe.png)
 # RichBOTSpammer
 
 
