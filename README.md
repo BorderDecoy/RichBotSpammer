@@ -16,3 +16,5 @@ Discord : GetOutHash#0264
 
 # Problems
 Contact with me via Discord.
+
+Or via Issues.
