@@ -3,7 +3,7 @@
 
 
 # Usage
-Download Visual Studio. !WARNING! This is not VB.Basic
+Download Visual Studio. !WARNING! This is not VB.Net
 
 Download Files and start WindowsFormsApp6.sln
 
